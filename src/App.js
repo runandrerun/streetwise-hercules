@@ -1,10 +1,10 @@
 import React from 'react';
 import Hero from './components/hero/Hero.component';
-import './App.css';
+import './App.styles.scss';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Hero />
     </div>
   );
