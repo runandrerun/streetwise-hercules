@@ -10,7 +10,7 @@ const Hero = () => {
             streetwise
           </div>
           <div className="heading-primary--sub">
-            fosters to the rescue
+            live, lift, and code
           </div>
           <a href="#" className="btn btn--white btn--animated">Learn more</a>
         </div>

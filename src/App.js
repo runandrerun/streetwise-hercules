@@ -1,11 +1,11 @@
 import React from 'react';
-import Hero from './components/hero/Hero.component';
+import Homepage from './pages/Homepage/Homepage.component';
 import './App.styles.scss';
 
 function App() {
   return (
     <div className="app">
-      <Hero />
+      <Homepage />
     </div>
   );
 }
