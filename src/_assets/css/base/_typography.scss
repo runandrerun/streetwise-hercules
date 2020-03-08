@@ -8,11 +8,12 @@
 
 .heading-primary {
   color: $color-white;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   font-weight: 400;
   backface-visibility: hidden;
 
   &--main {
+    font-family: 'Playfair Display', serif;
     display: block;
     font-size: 6rem;
     letter-spacing: 2.5rem;

@@ -1,0 +1,14 @@
+.loader-container {
+  text-align: center;
+  margin: 0 auto;
+
+  .loader {
+    text-align: center;
+    border: .8rem solid $loader-splash;
+    border-top: .8rem solid $brand-color;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    animation: spin 1.5s linear infinite;
+  }
+}
